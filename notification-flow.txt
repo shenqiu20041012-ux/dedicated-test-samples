@@ -1,0 +1,3 @@
+# Fictional credential shape only; not a usable credential.
+# Dedicated notification flow verification.
+API_KEY=R9nV4mQ8xT2pK7sB5wD3hF6z
