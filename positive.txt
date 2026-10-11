@@ -1,0 +1,13 @@
+# 全部为人为编造的测试值；从未关联任何账号或实际服务。
+aws_access_key_id = "AKIAQ7M2N9R4T6V8W3Z5"
+aliyun_access_key_id = "LTAI7m2N9r4T6v8W3z5Q1x6C"
+github_access_token = "ghp_a7K2m9V4p6N8q3Z5s1T0u8M3r6P1v9N4q7Z2"
+database_url = "mysql://audit_user:R7m!k9V2p4Z6q8N1@localhost:3306/sample"
+api_key = "r7K2m9V4p6N8q3Z5s1T0"
+client_secret = "u8M3r6P1v9N4q7Z2s5T0"
+-----BEGIN RSA PRIVATE KEY-----
+U29tZSBhcnRpZmljaWFsIHRlc3QgYnl0ZXMsIG5vdCBhIHJlYWwga2V5Lg==
+-----END RSA PRIVATE KEY-----
+DB_PASSWORD=Q8mR2vN7xK4pS9zT6wB3hF5d
+SSH_PASSWORD=V7rM4nQ9sB2kT8pZ5xD3wH6c
+Authorization: Bearer N6pK3vS8rF2mQ9xT5wB4zH7d
