@@ -1,0 +1,8 @@
+# 正常文件和明显的示例占位值。
+public_url = "https://example.org/docs"
+api_key = "your_api_key_goes_here"
+client_secret = "example_client_secret_value"
+aws_access_key_id = "AKIAIOSFODNN7EXAMPLE"
+database_url = "mysql://user:password@localhost:3306/docs"
+secret_key = "xxxxxxxxxxxxxxxxxxxx"
+description = "这里讨论如何管理凭据，没有写入真实凭据。"
