@@ -1,0 +1,2 @@
+# SYNTHETIC TEST ONLY - asynchronous SMTP validation
+api_key="cb304baa8d13d0fa477ec550e02a17d6bf584804"
