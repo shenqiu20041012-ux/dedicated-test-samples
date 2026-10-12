@@ -1,0 +1,2 @@
+# SYNTHETIC TEST ONLY - not issued by any service
+api_key="b3f93583a5154a97a2c85cacbe53283c0fe6a26d"
