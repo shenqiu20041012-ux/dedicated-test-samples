@@ -1,0 +1,2 @@
+# SYNTHETIC TEST ONLY - final detector revision
+api_key="49166da6b4486f96ab0a6e0a5f878cd6e2380669"
