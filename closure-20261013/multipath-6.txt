@@ -1,0 +1,2 @@
+Fictional credential detection test only. Not valid for any service.
+api_key="a82714d18d79a11eb896ee9719945baf"
