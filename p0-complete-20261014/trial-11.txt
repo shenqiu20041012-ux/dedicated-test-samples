@@ -1,0 +1,2 @@
+Fictional credential test. Not connected to any real service.
+api_key="cc849df4d476a0fc255e7ceb28420f68"
