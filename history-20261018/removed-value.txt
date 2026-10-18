@@ -1,2 +1,2 @@
-Fictional history-recovery test. No real service uses this value.
-api_key="W7p3N9v5K2m8T4z6B1q7C9s3D5f8H2x4"
+Fictional history-recovery test. The fictional value was removed from this current snapshot.
+No real credentials were used or exposed.
